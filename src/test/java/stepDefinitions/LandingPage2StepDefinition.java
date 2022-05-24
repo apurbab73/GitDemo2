@@ -15,7 +15,9 @@ public class LandingPage2StepDefinition {
 	
 	@Given("User is on GreenKart Home page")
 	public void user_is_on_green_kart_home_page() {
-	    
+		//Chaanges by AB
+		System.out.println("American guy making changes 1");
+		System.out.println("American guy making changes 2");
 	}
 	@When("User searched with {string} as ShortName and extracted actual name of the product")
 	public void user_searched_with_as_short_name_and_extracted_actual_name_of_the_product(String shortname) {

@@ -17,6 +17,8 @@ public class CheckoutPageStepDefinition {
 		this.testcontextsetup = testcontextsetup;
 		//Test by Apurba 1
 		//Test by Apurba 2
+		System.out.println("American guy making changes 1");
+		System.out.println("American guy making changes 2");
 	}
 	
 	
