@@ -26,6 +26,10 @@ public class Hooks {
 	public void AfterScenario() throws IOException
 	{
 		testcontextsetup.testBase.WebDriverManager().quit();
+		/*
+		 * Changes by the developer
+		 * 
+		 */
 	}
 	
 	@AfterStep
